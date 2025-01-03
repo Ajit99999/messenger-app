@@ -7,7 +7,6 @@ export const initialMessages = {
   ],
   Alex: [
     { id: Date.now(), text: "Hey Alex", sender: "me" },
-    { id: Date.now(), text: "Hey friend", sender: "Alex" },
   ],
-  Harry: [{ id: Date.now(), text: "Hi Harry", sender: "me" }],
+  Harry: [],
 };
