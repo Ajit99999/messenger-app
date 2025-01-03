@@ -21,3 +21,5 @@ I used React for building the UI and Vite for fast development setup.Context API
    npm run dev
 5. Open the app in your browser:
    http://localhost:5173
+6. Run test cases:
+   npm run test 
