@@ -9,6 +9,7 @@ I used React for building the UI and Vite for fast development setup.Context API
 2. Modular Code
 3. Responsive UI
 4. Error Handling
+5. Test cases
 
 ## Setup
 1. Clone the repository:
@@ -23,3 +24,5 @@ I used React for building the UI and Vite for fast development setup.Context API
    http://localhost:5173
 6. Run test cases:
    npm run test 
+7. Live URL link:
+   https://messenger-app-ajit.netlify.app/   
